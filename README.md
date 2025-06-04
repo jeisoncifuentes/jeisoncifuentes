@@ -9,7 +9,7 @@ Fundador de CHATico Sports Media Lab 🧪
 ## 🚀 En qué estoy trabajando / What I'm working on
 
 - Desarrollo de herramientas de IA para periodismo deportivo  
-- Automatización de estrategias y flujos editoriales con **n8n**, Sheets y Python  
+- Automatización de estrategias y flujos editoriales   
 - Creación de estrategias interactivas de apuestas con GPT + HTML  
 - Formación en redacción, SEO y prompt engineering para periodistas
 
